@@ -25,12 +25,12 @@ header {
 section.intro {
     background-color: #FCFAFA;
     padding: 30px;
-    border-bottom: 7px solid #DBB943;
+    /* border-bottom: 7px solid #DBB943; */
     /* background-image: url(/assets/a-bunch-of-make-up-brushes-6148.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; */
-    min-height: 60vh;
+    min-height: 40vh;
 }
 
 
@@ -41,10 +41,11 @@ section.intro {
 }
 
 .heading {
-    font-family: 'Playfair Display SC', serif;
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     margin-bottom: 5%;
     color: #104E54;
+    text-transform: uppercase;
     font-size: 2rem;
 }
 
